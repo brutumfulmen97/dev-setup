@@ -13,7 +13,6 @@ CHOICES=(
 	"Steam         Play games from Valve's store"
 	"VirtualBox    Virtual machines to run Windows/Linux"
 	"Zed           Fast all-purpose editor"
-	"Zoom          Attend and host video chat meetings"
 	"> All         Re-run any of the default installers"
 	"<< Back       "
 )
