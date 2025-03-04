@@ -26,3 +26,5 @@ EOL
 sudo chown root: cursor.desktop
 sudo chmod 644 cursor.desktop
 sudo mv cursor.desktop /usr/share/applications
+sudo chown -R $USER:$USER /opt/cursor
+sudo chown root:root /opt/cursor/chrome-sandbox && sudo chmod 4755 /opt/cursor/chrome-sandbox
